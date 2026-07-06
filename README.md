@@ -65,6 +65,5 @@ Weather-Analytics-Dashboard/
 ├── sql/
 ├── powerbi/
 ├── images/
-├── README.md
-└── requirements.txt
+└──  README.md
 ```
