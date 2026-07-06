@@ -40,7 +40,7 @@ This dashboard transforms raw weather data into actionable insights by enabling 
 ### Executive Dashboard
 
 <p align="center">
-<img src="images/dashboard1.png" width="900">
+<img src="C:\Users\Dell\Pictures\Screenshots" width="900">
 </p>
 
 ## 🗃 Database Schema
