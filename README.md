@@ -37,7 +37,7 @@ This dashboard transforms raw weather data into actionable insights by enabling 
 
 ---
 
-### Executive Dashboard
+### PipelineAutomated
 
 <p align="center">
 <img src="AutomationPipeline.png">
