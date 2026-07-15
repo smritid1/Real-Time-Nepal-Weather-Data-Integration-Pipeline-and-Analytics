@@ -13,7 +13,7 @@ The dashboard enables users to compare weather conditions across cities, monitor
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Automate real-time weather data collection
 - Store historical weather records for analysis
@@ -23,7 +23,7 @@ The dashboard enables users to compare weather conditions across cities, monitor
 
 ---
 
-## 💡 Business Value
+## Business Value
 
 This dashboard transforms raw weather data into actionable insights by enabling users to:
 
@@ -43,7 +43,7 @@ This dashboard transforms raw weather data into actionable insights by enabling 
 <img src="AutomationPipeline.png">
 </p>
 
-## 🗃 Database Schema
+## Database Schema
 
 weather_data
 
